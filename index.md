@@ -1,0 +1,48 @@
+- case study organizations
+  - fabscrap
+  - material for the arts
+- timeblog references
+  - immaterial labor
+- component list (pics of single components -> definition)
+  - pic in isolation + example pics embedded in places
+  - capacitors
+    - what
+    - how to test, discharge
+    - where to find
+  - diodes
+    - what
+    - common configurations / places
+  - solenoids
+  - speakers
+    - simple testing circuit
+- tools
+  - multimeter
+  - power supply
+  - osc
+  - that scraping thing
+- classes
+  - old vs new
+  - music toys
+  - computers
+  - applications (kitchen / shop)
+    - avoid microwave
+
+- breaking
+  - unscrewing
+  - where to crack
+- recycling
+  - types of plastic
+  - how to figure out local recycling infra (school vs residental)
+- reverse engineering
+  - probing techniques
+  - common components (if no labels visible)
+  - reverse engineering common practice
+    - common holding, SMD vs through etc
+      - country specific
+- reproductive sorting
+  - designing workshops
+  - automated processes
+  - cultural concerns
+    - repair culture reports
+- references
+  - (too many i haven't read yet :( )
