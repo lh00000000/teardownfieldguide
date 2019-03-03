@@ -1,6 +1,15 @@
+- bg
+  - participate with the built environment
 - case study organizations
   - fabscrap
   - material for the arts
+- primers
+  - electronics
+  - computer science / programming
+  - textile
+  - fabrication
+  - mechanisms
+  - measurment systems
 - timeblog references
   - immaterial labor
 - component list (pics of single components -> definition)
